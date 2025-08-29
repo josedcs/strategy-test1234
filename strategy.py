@@ -77,7 +77,7 @@ word="Hello World"
 if __name__ == "__main__":
     # Example usage and testing
     strategy = Test1234Strategy()
-    print(f"Strategy '{strategyName}' initialized successfully!")
+    print(f"Strategy '{word}' initialized successfully!")
     
     # Example data loading
     symbols = ['SPY', 'QQQ', 'IWM']
